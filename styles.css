@@ -8,7 +8,7 @@ section{
     height: 100vh;
     /* background-color: #ebebe6; */
     background-image: -webkit-linear-gradient(top, #edecec, #cecbc9);
-	background-image: linear-gradient(top, #edecec, #cecbc9);
+	  background-image: linear-gradient(top, #edecec, #cecbc9);
     position: relative;
 }
 section h1{
@@ -50,5 +50,14 @@ section h1{
     height: 20px;
     border-radius: 10px;
     background-color: #FFF;
+  }
+
+  #start{
+    outline: none;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 4px;
+    background-color: #0a2745;
+    color: #FFF;
   }
   
